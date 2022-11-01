@@ -520,6 +520,9 @@ section {
   transition: 0.9s;
   background-color: #0563bb;
 }
+.img1{
+  width: 4rem;
+}
 
 /*--------------------------------------------------------------
 # Resume
