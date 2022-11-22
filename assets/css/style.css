@@ -485,7 +485,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Skills
+# skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -502,6 +502,9 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #45505b;
+  margin-left: 230px;
+  padding-right: 50px;
+
 }
 
 .skills .progress .skill .val {
@@ -510,7 +513,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #f2f3f5;
+  background:#f2f3f5;
 }
 
 .skills .progress-bar {
@@ -521,6 +524,8 @@ section {
 }
 .img1{
   width: 4rem;
+  margin-left: 225px;
+  padding-right: 10px;
 }
 
 /*--------------------------------------------------------------
@@ -561,7 +566,7 @@ section {
 }
 
 .resume .resume-item ul {
-  padding-left: 50px;
+  padding-left: 20px;
 }
 
 .resume .resume-item ul li {
