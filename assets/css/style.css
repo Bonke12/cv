@@ -313,7 +313,7 @@ h6 {
 }
 
 #hero p {
-  color: #45505b;
+  color:rgb(157, 151, 151);
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -412,8 +412,8 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
-  color: #728394;
+  font-size: 22px;
+  color: rgba(68, 65, 65, 0.653);
 }
 
 .about .content ul {
