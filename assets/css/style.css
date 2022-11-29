@@ -324,7 +324,7 @@ h6 {
   letter-spacing: 1px;
 }
 
-#hero .social-links {
+/* #hero .social-links {
   margin-top: 30px;
 }
 
@@ -339,7 +339,7 @@ h6 {
 
 #hero .social-links a:hover {
   color: #0563bb;
-}
+} */
 
 @media (max-width: 992px) {
   #hero {
@@ -523,8 +523,8 @@ section {
   background-color: #0563bb;
 }
 .img1{
-  width: 4rem;
-  margin-left: 225px;
+  width: 6.5rem;
+  margin-left: 230px;
   padding-right: 10px;
 }
 
